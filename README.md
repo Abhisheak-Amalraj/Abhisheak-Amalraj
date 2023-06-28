@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhisheak-Amalraj
-- 👀 I’m Passionate about learning new technologies to sharp my skills. Expecting myself to be a full-stack
-Software Engineer that solve real problems that not limited to neither front-end nor backend field.
+- 👀 I am passionate about constantly learning new technologies to sharpen my skills. My goal is to become a full-stack software engineer capable of solving real-world problems that extend beyond just front-end or back-end development.
 
 <!---
 Abhisheak-Amalraj/Abhisheak-Amalraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
