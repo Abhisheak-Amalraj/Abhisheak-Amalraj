@@ -1,4 +1,3 @@
-[![MasterHead](https://files.oaiusercontent.com/file-u4LwfTHwiCeLHoKMZUDQ5Gb3?se=2024-04-17T11%3A32%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0f16568e-91d0-446e-a04f-98891f262b53.webp&sig=MMVMg/RbAYId3JTPscmV%2BULuWK5b4HAKNV88TOD0RoY%3D)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhisheak Amalraj</h1>
 <h3 align="center">Software Developer at AR Experts LTD, Greater Manchester, United Kingdom</h3>
 
