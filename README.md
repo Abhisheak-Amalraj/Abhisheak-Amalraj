@@ -5,6 +5,17 @@
 
 - 📫 How to reach me **abhisheak.amalraj@gmail.com**
 
+### What I'm building
+
+**[polyglotstack.dev](https://polyglotstack.dev)** — Open source guides, starter templates, and tooling for developers building with multiple databases. Think Supabase DX, but for your entire polyglot stack.
+
+- 📚 Architecture guides for every major database combination
+- 🚀 Production-ready starter templates on GitHub
+- 🛠️ CLI tool coming soon — `npx polyglotstack init`
+- ☁️ Hosted platform in development
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhisheak-amalraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisheak-amalraj" height="30" width="40" /></a>
