@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abhisheak Amalraj</h1>
-<h3 align="center">Software Developer · Greater Manchester, UK</h3>
+# Hi 👋, I'm Abhisheak Amalraj
 
-- 🔭 I build developer tools and infrastructure. Currently working on **[polyglotstack.dev](https://polyglotstack.dev)** — the definitive resource for polyglot persistence, helping developers choose, combine, and set up multiple databases together.
+### Software Developer · Greater Manchester, UK
+
+I build developer tools and infrastructure. Currently working on **[polyglotstack.dev](https://polyglotstack.dev)** — the definitive resource for polyglot persistence, helping developers choose, combine, and set up multiple databases together.
+
+---
 
 - 📫 How to reach me **abhisheak.amalraj@gmail.com**
 
